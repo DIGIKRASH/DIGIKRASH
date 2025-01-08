@@ -2,33 +2,18 @@
 
 ## **I'm a Mobile Developer**
 
-Hi! I develop web and mobile apps, with a focus on creating amazing user interfaces. My main areas are frontend for web applications on Nuxt.js and mobile applications on React Native. My arsenal also includes React, Next.js, Vue.js and Laravel. With over 2 years of experience, I am involved in creating interactive websites and applications that inspire users. I am constantly studying the latest technologies and trends in web development in order to provide the most advanced solutions and the best user experience.
-#
-
-**`Flutter`** 
+Hi! I specialize in developing mobile applications using Flutter, with a strong focus on creating intuitive and visually appealing user interfaces. Before diving into mobile development, I actively worked on building websites with Nuxt.js, which provided me with a solid background in web development. I emphasize clean, readable, and maintainable code, considering it one of the core values of my work. I am also passionate about optimizing the development process by creating and improving project templates with ready-to-use structures and features.
 
 #
 
-🔷 My main directions: Nuxt.js, React Native
+🔷 Main focus: Flutter
 
-🔷 Stack for fullstack web applications: NuxtJS/Laravel, NextJS/NestJS
+🔷 Core stack for mobile development: GetX, Dio, Firebase
 
-🔷 I have **more than 2 years** of experience
+🔷 Secondary focus: Web development with Nuxt.js
 
-🔷 I always prefer to use TypeScript and SCSS in my projects
+🔷 Strong emphasis on clean, readable, and maintainable code
 
-🔷 When developing on NuxtJS, I always prefer to use the Composition API style
+🔷 Constantly exploring ways to speed up development: creating and improving project templates to make the process more efficient
 
-🔷 I like to write clean and easy-to-read code. This is my passion and one of the most important aspects of my approach
-
-#
-
-[//]: # (<a href="https://t.me/finik_xxx"><img src="./icons/telegram.svg" alt="telegram" width="30" height="30"></a>)
-
-[//]: # (<a href="mailto:finikdigi@gmail.com"><img src="./icons/email.svg" alt="email" width="30" height="30"></a>)
-
-[//]: # (<a href="https://www.linkedin.com/in/finikkkk/"><img src="./icons/linkedin.svg" alt="linkedin" width="30" height="30"></a>)
-
-[//]: # (<a href="https://hh.ru/resume/e6572d31ff0bbec83c0039ed1f745451793661"><img src="./icons/hh.svg" alt="hh" width="30" height="30"></a>)
-
-[//]: # (<a href="https://career.habr.com/finikkkk"><img src="./icons/habr.svg" alt="habr-career" width="30" height="30"></a>)
+🔷 I love designing interfaces that make applications and websites user-friendly and memorable
