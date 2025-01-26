@@ -1,19 +1,17 @@
 <img src="./banner.png">
 
-## **I'm a Mobile Developer**
-
-Hi! I specialize in developing mobile applications using Flutter, with a strong focus on creating intuitive and visually appealing user interfaces. Before diving into mobile development, I actively worked on building websites with Nuxt.js, which provided me with a solid background in web development. I emphasize clean, readable, and maintainable code, considering it one of the core values of my work. I am also passionate about optimizing the development process by creating and improving project templates with ready-to-use structures and features.
+Hi! I am a mobile application developer creating user-friendly and intuitive interfaces. My primary focus is Flutter, although I also develop applications using React Native. Despite expanding my tech stack, Flutter remains my preferred choice whenever the project allows it. I also develop websites using Nuxt.js, which enables me to seamlessly combine mobile and web development, creating cohesive ecosystems. I pay special attention to code quality and maintainability, considering them core values of my work. Additionally, I am passionate about optimizing development processes: I create and improve project templates to ensure a quick start and simplify the integration of complex features. Ultimately, my goal is to build applications and websites that not only meet functional requirements but also bring joy to users through their convenience, thoughtful design, and flawless performance
 
 #
 
-🔷 Main focus: Flutter
+🔷 Mobile Development: Flutter / React Native
 
-🔷 Core stack for mobile development: GetX, Dio, Firebase
+🔷 Web Development: Nuxt.js
 
-🔷 Secondary focus: Web development with Nuxt.js
+🔷 Using TypeScript (React Native and Nuxt.js)
 
-🔷 Strong emphasis on clean, readable, and maintainable code
+🔷 Strong focus on clean, readable, and maintainable code
 
-🔷 Constantly exploring ways to speed up development: creating and improving project templates to make the process more efficient
+🔷 Constantly exploring ways to accelerate development: creating and improving project templates to make the process more efficient
 
-🔷 I love designing interfaces that make applications and websites user-friendly and memorable
+🔷 I enjoy designing interfaces that make applications and websites user-friendly and memorable
